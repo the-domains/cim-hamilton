@@ -1,0 +1,14 @@
+layout_spectrum: 0.16178681096062064
+typography_spectrum: 0.040892568649724126
+color:
+  brandStrength: 0.08019275916740298
+  lightness: 0.7456547920592129
+  saturation: 0.1140109512489289
+  rhythmicContrast: 0.5965362126007676
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: CIM Hamilton
